@@ -1,1 +1,1 @@
-Task 0. Where am I?
+1. Write a script that prints “Hello, World”
